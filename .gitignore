@@ -1,0 +1,29 @@
+# Ignore Visual Studio workspace files
+.vs/
+
+# Ignore build output directories
+x64/
+Debug/
+
+# Ignore specific Visual Studio project files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/
+*.ncb
+*.sdf
+*.opensdf
+*.plg
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.lib
+*.dll
+*.vcxproj
+*.vcxproj.filters
+*.sln
