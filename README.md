@@ -1,4 +1,5 @@
 # C++ Basic Calculator
+### Description
 This is a console-based calculator program written in C++. It offers a simple interface for doing basic mathematical operations such as addition, subtraction, multiplication, and division. 
 
 The calculator is built to be durable and handle a variety of input scenarios, ensuring a positive user experience through rigorous error management and input validation. It's an excellent example of using key programming principles such as object-oriented design, string manipulation, and error management in C++.
