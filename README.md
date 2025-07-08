@@ -1,3 +1,4 @@
+![Header](https://github.com/user-attachments/assets/a039ce3a-a652-4d0a-be3e-b0ee4b55c83c)
 <h2 align="center">C++ Calculator</h2>
 
 ### Description
